@@ -1,5 +1,3 @@
-## @ghwood on GitHub
-
 Currently working for the [Internet Engineering Task Force](https://www.ietf.org) as the Director of Communications and Operations at the IETF Administration LLC. 
 
 Committed to a unified open Internet built on open standards to help people make the world better.
