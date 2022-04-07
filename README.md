@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home.html
 title: @ghwood on Github
 ---
 
