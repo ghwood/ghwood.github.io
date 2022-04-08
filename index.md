@@ -1,5 +1,4 @@
 ---
-layout: home.html
 title: Greg Wood
 ---
 
