@@ -9,11 +9,11 @@ Committed to a unified open Internet built on open standards to help people make
 Previously at the [Internet Society](https://www.internetsociety.org) and [Internet2](https://www.internet2.edu).
 
 ### Contact
-- [@ghwood on Github](https://github.com/ghwood)
 - [@ghwood on Twitter](https://www.twitter.com/ghwood)
 - [@ghwood on LinkedIn](https://www.linkedin.com/in/ghwood/)
-- [@ghwood on Gmail](mailto:ghwood@gmail.com)
+- [@ghwood on email](mailto:ghwood@staff.ietf.org)
 
 ### Also
 - [Kona calling](https://www.konacalling.org)
 - [@ultraghwood](https://www.twitter.com/ultraghwood)
+- [@ghwood on Gmail](mailto:ghwood@gmail.com)
