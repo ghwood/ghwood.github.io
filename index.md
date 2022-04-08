@@ -1,6 +1,6 @@
 ---
 layout: home.html
-title: Greg Wood | @ghwood
+title: Greg Wood
 ---
 
 Currently working for the [Internet Engineering Task Force](https://www.ietf.org) as the Director of Communications and Operations at the IETF Administration LLC. 
